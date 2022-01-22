@@ -7,6 +7,9 @@ Ever wondered what the optimal first word to guess might be?
 
 As a fan of the game myself, I've done some quick analytics to try and help guide you.
 
+Final output is a text file of 60 words (best_guesses.txt) that are good initial guesses when playing Wordle. 
+The list can, with manual curation, be pared down further to only the more common words used in the game.
+
 Python 3
 --------
 

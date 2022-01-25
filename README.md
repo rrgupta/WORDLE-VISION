@@ -29,4 +29,4 @@ This code uses a lexicon of English words provided on GitHub by dwyl <a href="ht
 Further Reading
 ---------------
 
-A write-up of this work can be found <a href="https://towardsdatascience.com/wordle-vision-simple-analytics-to-up-your-wordle-game-65daf4f1aa6f#5b46-3fbb992066f5">here</a>.
+A write-up of this work can be found <a href="https://towardsdatascience.com/wordle-vision-simple-analytics-to-up-your-wordle-game-65daf4f1aa6f">here</a>.

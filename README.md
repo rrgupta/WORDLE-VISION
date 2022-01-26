@@ -30,3 +30,5 @@ Further Reading
 ---------------
 
 A write-up of this work can be found <a href="https://towardsdatascience.com/wordle-vision-simple-analytics-to-up-your-wordle-game-65daf4f1aa6f">here</a>.
+
+A independent analysis that uses a different data set and looks into letter placement can be found <a href="https://cosmiccoding.com.au/tutorials/wordle">here</a>.

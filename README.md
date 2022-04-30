@@ -38,4 +38,6 @@ Update using New York Times Wordle List (30 Apr 2022)
 
 Updated my analysis to use the <a href="https://static.nytimes.com/newsgraphics/2022/01/25/wordle-solver/assets/solutions.txt">official Wordle solutions list</a> of 2,309 words. 
 
-Also added a list of previous Wordle solutions as of 29 Apr 2022 (previous_wordle_solutions_314.txt) in order to remove them from my analysis. 
+I also find pairs of words that are good opening 1st and 2nd guesses that will help you to eliminate letters. 
+
+Added a list of previous Wordle solutions as of 29 Apr 2022 (previous_wordle_solutions_314.txt) in order to remove them from my analysis. 
